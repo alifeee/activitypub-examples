@@ -1,0 +1,7 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://mastodon.social/users/alifeee/followers",
+    "type": "OrderedCollection",
+    "totalItems": 153,
+    "first": "https://mastodon.social/users/alifeee/followers?page=1"
+}

@@ -1,0 +1,9 @@
+{
+    "links": [
+        {
+            "rel": "self",
+            "type": "http://nodeinfo.diaspora.software/ns/schema/2.1",
+            "href": "https://events.sheffield.alifeee.co.uk/nodeinfo/2.1"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "https://ramblingreaders.org/book/218",
+    "type": "Work",
+    "openlibraryKey": "OL20153626W",
+    "inventaireId": "wd:Q52722355",
+    "librarythingKey": "21372389",
+    "goodreadsKey": "",
+    "title": "Bullshit Jobs",
+    "sortTitle": "",
+    "subtitle": "A Theory",
+    "description": "<p>Bullshit Jobs: A Theory is a 2018 book by anthropologist David Graeber that argues the existence and societal harm of meaningless jobs. He contends that over half of societal work is pointless, which becomes psychologically destructive when paired with a work ethic that associates work with self-worth. Graeber describes five types of bullshit jobs, in which workers pretend their role isn't as pointless or harmful as they know it to be: flunkies, goons, duct tapers, box tickers, and taskmasters. He argues that the association of labor with virtuous suffering is recent in human history, and proposes universal basic income as a potential solution.</p>",
+    "languages": [
+        "English"
+    ],
+    "series": "",
+    "seriesNumber": "",
+    "subjects": [
+        "Bureaucracy",
+        "Job satisfaction",
+        "Psychological aspects",
+        "Social aspects",
+        "Work",
+        "Organizational effectiveness",
+        "Social structure",
+        "Labor"
+    ],
+    "subjectPlaces": [],
+    "authors": [
+        "https://ramblingreaders.org/author/47"
+    ],
+    "firstPublishedDate": "",
+    "publishedDate": "2018-05-15",
+    "fileLinks": [],
+    "cover": {
+        "type": "Image",
+        "url": "https://assets.ramblingreaders.org/images/covers/efb1aaff-c9fb-4760-a784-2f46f2ec2db9.jpeg",
+        "name": "David Graeber: Bullshit Jobs (2018)",
+        "@context": [
+            "https://www.w3.org/ns/activitystreams",
+            {
+                "Hashtag": "as:Hashtag"
+            }
+        ]
+    },
+    "lccn": "",
+    "editions": [
+        "https://ramblingreaders.org/book/519",
+        "https://ramblingreaders.org/book/219",
+        "https://ramblingreaders.org/book/522",
+        "https://ramblingreaders.org/book/520",
+        "https://ramblingreaders.org/book/521",
+        "https://ramblingreaders.org/book/523",
+        "https://ramblingreaders.org/book/524",
+        "https://ramblingreaders.org/book/525",
+        "https://ramblingreaders.org/book/527",
+        "https://ramblingreaders.org/book/239955",
+        "https://ramblingreaders.org/book/528",
+        "https://ramblingreaders.org/book/526",
+        "https://ramblingreaders.org/book/529"
+    ],
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        {
+            "Hashtag": "as:Hashtag"
+        }
+    ]
+}

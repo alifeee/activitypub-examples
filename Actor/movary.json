@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        "https://w3id.org/security/v1"
+    ],
+    "id": "https://movary.test/users/<user>",
+    "type": "Application",
+    "following": "https://movary.test/users/<user>/following",
+    "followers": "https://movary.test/users/<user>/followers",
+    "inbox": "https://movary.test/users/<user>/inbox",
+    "outbox": "https://movary.test/users/<user>/outbox",
+    "preferredUsername": "<user>",
+    "name": "<user> on <instance name>",
+    "summary": "Self hosted web app to track and rate your watched movies",
+    "url": "https://movary.test/users/<user>",
+    "manuallyApprovesFollowers": false,
+    "discoverable": true,
+    "indexable": true,
+    "published": "2024-11-02T01:38:00Z",
+    "alsoKnownAs": [],
+    "icon": {
+        "type": "Image",
+        "mediaType": "image/png",
+        "url": "https://movary.test/icon.png"
+    },
+    "image": {
+        "type": "Image",
+        "mediaType": "image/png",
+        "url": "https://movary.test/banner.png"
+    },
+    "publicKey": {
+        "id": "https://movary.test/users/<user>#main-key",
+        "owner": "https://movary.test/users/<user>",
+        "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDSyFcpAUHgtaetY+66l7Pn/xV2\nlyYmlKrxHD4/B+FoqlYnS+Z84afRHaIzJ9S0kfO1BXIeY9Fey8rw0phuKTa1Pqfq\nMQ97S5v+IZhx9OwMdKQICDJ1kFQU6ZOjTXHSeDyviq04bNC9vemLDIevOfi2JRpD\nnE7Q2rwJAq5aq5qKqQIDAQAB\n-----END PUBLIC KEY-----"
+    }
+}

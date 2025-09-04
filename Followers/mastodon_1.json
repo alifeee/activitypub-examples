@@ -1,0 +1,22 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://mastodon.social/users/alifeee/followers?page=1",
+    "type": "OrderedCollectionPage",
+    "totalItems": 153,
+    "next": "https://mastodon.social/users/alifeee/followers?page=2",
+    "partOf": "https://mastodon.social/users/alifeee/followers",
+    "orderedItems": [
+        "https://chaos.social/users/thechaoszone",
+        "https://post.lurk.org/users/froos",
+        "https://mastodon.social/users/leepeuker",
+        "https://infosec.exchange/users/alexhaydock",
+        "https://en.osm.town/users/joeldn",
+        "https://mastodon.social/users/mirachan",
+        "https://transfem.social/users/a2nmh9p6wgu300l8",
+        "https://woof.tech/users/eval",
+        "https://mastodon.social/users/TinJar",
+        "https://tinjar.ghost.io/.ghost/activitypub/users/index",
+        "https://tech.lgbt/users/snalewife",
+        "https://mastodon.social/users/foobarry"
+    ]
+}

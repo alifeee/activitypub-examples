@@ -1,0 +1,32 @@
+{
+    "id": "https://ramblingreaders.org/user/alifeee/followers",
+    "type": "Person",
+    "preferredUsername": "alifeee",
+    "inbox": "https://ramblingreaders.org/user/alifeee/inbox",
+    "publicKey": {
+        "id": "https://ramblingreaders.org/user/alifeee/#main-key",
+        "type": "PublicKey",
+        "owner": "https://ramblingreaders.org/user/alifeee",
+        "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1vLjzInoqxodroj3/hOe\nWvwAPRfUrS7EnzYE2w/JmH7k0aZVQP8QFHK8bzP1+hrGvQpzRnZmpvDtAbfXo4H+\nN+6puG+O/Gt4sJ7dihlw/wK+4sjp0FL3D+MTGtgN66vSsl9mrm+XPWeFLVS8aeNe\nhLhtMdkTSC8kYxapU1P3vzCanvO8OrHosKGPJ+qlS+N4vfK0mjI38hIUzY/ZDoEo\n4TbfSktRO4uVFVoW5jwIPNrUiDa+ENJ/WPoK4qQr1A7+FvMaNKiY+CIrm91ipwP0\nnZY5t1OW7vDSocy98f+Jmluj3JBR8QxDeN+c/lHg4vCGjaKVyQcWJ5l1mf2wPQbr\nYQIDAQAB\n-----END PUBLIC KEY-----"
+    },
+    "followers": "https://ramblingreaders.org/user/alifeee/followers",
+    "following": "https://ramblingreaders.org/user/alifeee/following",
+    "outbox": "https://ramblingreaders.org/user/alifeee/outbox",
+    "endpoints": {
+        "sharedInbox": "https://ramblingreaders.org/inbox"
+    },
+    "name": "alifeee",
+    "summary": "<p>what @alifeee is reading or has read :)\nwhat if goodreads was... good\nhttps://linktr.ee/alifeee</p>",
+    "icon": {
+        "id": null,
+        "type": "Image",
+        "url": "https://assets.ramblingreaders.org/images/avatars/86dcf608-f267-4d54-a689-c572d8b19351.png",
+        "name": "avatar for alifeee"
+    },
+    "bookwyrmUser": true,
+    "manuallyApprovesFollowers": false,
+    "discoverable": true,
+    "hideFollows": false,
+    "movedTo": null,
+    "alsoKnownAs": []
+}

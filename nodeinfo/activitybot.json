@@ -1,0 +1,27 @@
+{
+    "version": "2.1",
+    "software": {
+        "name": "Single File ActivityPub Server in PHP",
+        "version": "0.000000001",
+        "repository": "https://gitlab.com/edent/activitypub-single-php-file/"
+    },
+    "protocols": [
+        "activitypub"
+    ],
+    "services": {
+        "inbound": [],
+        "outbound": []
+    },
+    "openRegistrations": false,
+    "usage": {
+        "users": {
+            "total": 1
+        },
+        "localPosts": 1725
+    },
+    "metadata": {
+        "nodeName": "activitypub-single-php-file",
+        "nodeDescription": "This is a single PHP file which acts as an extremely basic ActivityPub server.",
+        "spdx": "AGPL-3.0-or-later"
+    }
+}

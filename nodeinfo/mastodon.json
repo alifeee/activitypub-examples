@@ -1,0 +1,27 @@
+{
+    "version": "2.0",
+    "software": {
+        "name": "mastodon",
+        "version": "4.5.0-nightly.2025-09-03"
+    },
+    "protocols": [
+        "activitypub"
+    ],
+    "services": {
+        "outbound": [],
+        "inbound": []
+    },
+    "usage": {
+        "users": {
+            "total": 2871320,
+            "activeMonth": 269169,
+            "activeHalfyear": 739060
+        },
+        "localPosts": 144542888
+    },
+    "openRegistrations": true,
+    "metadata": {
+        "nodeName": "Mastodon",
+        "nodeDescription": "The original server operated by the Mastodon gGmbH non-profit"
+    }
+}

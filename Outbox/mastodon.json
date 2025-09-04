@@ -1,0 +1,8 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://mastodon.social/users/alifeee/outbox",
+  "type": "OrderedCollection",
+  "totalItems": 2893,
+  "first": "https://mastodon.social/users/alifeee/outbox?page=true",
+  "last": "https://mastodon.social/users/alifeee/outbox?min_id=0&page=true"
+}

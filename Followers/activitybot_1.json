@@ -1,0 +1,19 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://events.sheffield.alifeee.co.uk/followers?page=1",
+    "type": "OrderedCollectionPage",
+    "totalItems": 10,
+    "partOf": "https://events.sheffield.alifeee.co.uk/followers",
+    "orderedItems": [
+        "https://mastodon.social/users/nnenov",
+        "https://mastodon.social/users/NickAnEngineer",
+        "https://mastodon.social/users/Kezney",
+        "https://mastodon.social/users/b0boy",
+        "https://mastodon.social/users/Vincey59",
+        "https://mastodon.social/users/charlesfox",
+        "https://mastodon.social/users/Vibracobra23",
+        "https://mastodon.social/users/slackline",
+        "https://mastodon.social/users/RonnyAdsetts",
+        "https://mastodon.social/users/alifeee"
+    ]
+}

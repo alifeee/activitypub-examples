@@ -1,0 +1,49 @@
+{
+    "id": "https://ramblingreaders.org/user/alifeee/comment/889707",
+    "type": "Note",
+    "published": "2025-08-10T16:27:37.118906+00:00",
+    "attributedTo": "https://ramblingreaders.org/user/alifeee",
+    "content": "<p>I enjoyed it a lot. I'm sure I'll be recommending it. There is some good commentary on the history of the worthwhileness of work;]</p><p>(comment on <a href=\"https://ramblingreaders.org/book/219\"><i>Bullshit Jobs</i></a>)</p>",
+    "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+    ],
+    "cc": [
+        "https://ramblingreaders.org/user/alifeee/followers"
+    ],
+    "replies": {
+        "id": "https://ramblingreaders.org/user/alifeee/comment/889707/replies",
+        "type": "OrderedCollection",
+        "totalItems": 0,
+        "first": "https://ramblingreaders.org/user/alifeee/comment/889707/replies?page=1",
+        "last": "https://ramblingreaders.org/user/alifeee/comment/889707/replies?page=1",
+        "@context": [
+            "https://www.w3.org/ns/activitystreams",
+            {
+                "Hashtag": "as:Hashtag"
+            }
+        ]
+    },
+    "tag": [],
+    "attachment": [
+        {
+            "type": "Document",
+            "url": "https://assets.ramblingreaders.org/images/previews/covers/219-c074b27e-f26a-4249-9b30-42c06ffa71de.jpg",
+            "name": "David Graeber: Bullshit Jobs (Hardcover, 2018, Simon Schuster)",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        }
+    ],
+    "sensitive": false,
+    "inReplyToBook": "https://ramblingreaders.org/book/219",
+    "readingStatus": "read",
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        {
+            "Hashtag": "as:Hashtag"
+        }
+    ]
+}

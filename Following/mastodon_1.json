@@ -1,0 +1,22 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://mastodon.social/users/alifeee/following?page=1",
+    "type": "OrderedCollectionPage",
+    "totalItems": 146,
+    "next": "https://mastodon.social/users/alifeee/following?page=2",
+    "partOf": "https://mastodon.social/users/alifeee/following",
+    "orderedItems": [
+        "https://chaos.social/users/thechaoszone",
+        "https://post.lurk.org/users/froos",
+        "https://masto.millforge.org/users/millforge",
+        "https://mastodon.social/users/girlonthenet",
+        "https://mastodon.social/users/opentermsarchive",
+        "https://social.coop/users/commonknowledge",
+        "https://woof.tech/users/eval",
+        "https://leedshackspace.org.uk/social/lhs",
+        "https://union.place/users/utaw",
+        "https://neodb.alifeee.net/@alifeee@neodb.alifeee.net/",
+        "https://patternclub.org/@patternclub",
+        "https://mastodon.archive.org/users/internetarchive"
+    ]
+}

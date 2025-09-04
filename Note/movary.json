@@ -1,0 +1,24 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/activitystreams"
+  ],
+  "id": "https://movary.test/users/<user>/play/<movie-id>/<date>",
+  "type": "Note",
+  "published": "2025-09-03T19:45:03+00:00",
+  "attributedTo": "https://movary.test/users/<user>",
+  "inReplyTo": null,
+  "content": "it was a pretty good film yeh",
+  "contentMap": {
+    "en": "<p>it was a pretty good film yeh</p>"
+  },
+  "to": [
+    "https://www.w3.org/ns/activitystreams#Public"
+  ],
+  "cc": [
+    "https://movary.test/users/<user>/followers"
+  ],
+  "attachment": [],
+  "og-data": {
+    "og:image": "https://movary.test/image_cache/film_poster2875825.png"
+  }
+}

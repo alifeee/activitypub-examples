@@ -1,0 +1,7 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://events.sheffield.alifeee.co.uk/followers",
+    "type": "OrderedCollection",
+    "totalItems": 10,
+    "first": "https://events.sheffield.alifeee.co.uk/followers?page=1"
+}

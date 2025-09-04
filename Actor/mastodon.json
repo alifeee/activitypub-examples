@@ -1,0 +1,107 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        "https://w3id.org/security/v1",
+        {
+            "manuallyApprovesFollowers": "as:manuallyApprovesFollowers",
+            "toot": "http://joinmastodon.org/ns#",
+            "featured": {
+                "@id": "toot:featured",
+                "@type": "@id"
+            },
+            "featuredTags": {
+                "@id": "toot:featuredTags",
+                "@type": "@id"
+            },
+            "alsoKnownAs": {
+                "@id": "as:alsoKnownAs",
+                "@type": "@id"
+            },
+            "movedTo": {
+                "@id": "as:movedTo",
+                "@type": "@id"
+            },
+            "schema": "http://schema.org#",
+            "PropertyValue": "schema:PropertyValue",
+            "value": "schema:value",
+            "discoverable": "toot:discoverable",
+            "suspended": "toot:suspended",
+            "memorial": "toot:memorial",
+            "indexable": "toot:indexable",
+            "attributionDomains": {
+                "@id": "toot:attributionDomains",
+                "@type": "@id"
+            },
+            "focalPoint": {
+                "@container": "@list",
+                "@id": "toot:focalPoint"
+            }
+        }
+    ],
+    "id": "https://mastodon.social/users/alifeee",
+    "type": "Person",
+    "following": "https://mastodon.social/users/alifeee/following",
+    "followers": "https://mastodon.social/users/alifeee/followers",
+    "inbox": "https://mastodon.social/users/alifeee/inbox",
+    "outbox": "https://mastodon.social/users/alifeee/outbox",
+    "featured": "https://mastodon.social/users/alifeee/collections/featured",
+    "featuredTags": "https://mastodon.social/users/alifeee/collections/tags",
+    "preferredUsername": "alifeee",
+    "name": "alifeee",
+    "summary": "<p>Hi! I&#39;m alifeee and I like making things :)</p><p>· physics · toki pona · mahjong · python · board games · websites · geocaching · interrail · freeskates · keyforge · hitchhiking · video games · stink poles ·</p><p>pronouns: any/all</p>",
+    "url": "https://mastodon.social/@alifeee",
+    "manuallyApprovesFollowers": false,
+    "discoverable": false,
+    "indexable": false,
+    "published": "2023-09-12T00:00:00Z",
+    "memorial": false,
+    "alsoKnownAs": [
+        "https://toki.social/users/alifeee"
+    ],
+    "attributionDomains": [
+        "blog.alifeee.co.uk",
+        "weeknotes.alifeee.co.uk",
+        "alifeee.co.uk"
+    ],
+    "publicKey": {
+        "id": "https://mastodon.social/users/alifeee#main-key",
+        "owner": "https://mastodon.social/users/alifeee",
+        "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkvjy68kdD3jWmGry6ILn\nJe3hj7C6TVObhkjaoOmmMAVRpjyP31EiXtPt2GbwF0tVVCTnf/rx6LTSMgvR75Bj\n+XIM5iM6vKev/IoF9oFagzZcOwaD3GtsVqB2+zry11tkTQNHbSkqxd96gOgaZYjy\nPmJNS5/k+L5VRM3Fe/YKAQMcG4VzuFLRZSVZayl7D0JgHOI58nimZG9TgoWqDYJ0\npz5/IpXsx8DmDFjI1Uvada+eJ7b2OXhFeQU+OTXppTwl7bgTj3/T8csB1vhTWZvP\ne/UUtYBRbDEK6tCRxL86GZRcHpiT1RJ+n0+1bDE2BMyDFg8QVfuRO4plA8boNEyL\nRwIDAQAB\n-----END PUBLIC KEY-----\n"
+    },
+    "tag": [],
+    "attachment": [
+        {
+            "type": "PropertyValue",
+            "name": "linktree",
+            "value": "<a href=\"https://linktr.ee/alifeee\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/alifeee</span><span class=\"invisible\"></span></a>"
+        },
+        {
+            "type": "PropertyValue",
+            "name": "website",
+            "value": "<a href=\"https://alifeee.co.uk\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">alifeee.co.uk</span><span class=\"invisible\"></span></a>"
+        },
+        {
+            "type": "PropertyValue",
+            "name": "blog",
+            "value": "<a href=\"https://blog.alifeee.co.uk\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">blog.alifeee.co.uk</span><span class=\"invisible\"></span></a>"
+        },
+        {
+            "type": "PropertyValue",
+            "name": "github",
+            "value": "<a href=\"https://github.com/alifeee\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/alifeee</span><span class=\"invisible\"></span></a>"
+        }
+    ],
+    "endpoints": {
+        "sharedInbox": "https://mastodon.social/inbox"
+    },
+    "icon": {
+        "type": "Image",
+        "mediaType": "image/png",
+        "url": "https://files.mastodon.social/accounts/avatars/111/052/790/660/591/193/original/fffd1b092bda44c7.png"
+    },
+    "image": {
+        "type": "Image",
+        "mediaType": "image/jpeg",
+        "url": "https://files.mastodon.social/accounts/headers/111/052/790/660/591/193/original/ad9ff1657311217a.jpg"
+    }
+}

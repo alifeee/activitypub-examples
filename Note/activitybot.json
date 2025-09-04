@@ -1,0 +1,30 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/activitystreams"
+  ],
+  "id": "https://events.sheffield.alifeee.co.uk/posts/https:__www.welcometosheffield.co.uk_content_events_warrington-runcorn-new-town-development-programme_.json",
+  "type": "Note",
+  "published": "2025-09-03T19:45:03+00:00",
+  "attributedTo": "https://events.sheffield.alifeee.co.uk/events",
+  "inReplyTo": null,
+  "content": "<p>event in Sheffield in 6 days (167 h) !<br/><br/>Warrington Runcorn New Town Development Programme<br/><br/>Warrington Runcorn New Town Development Programme play live at Sidney & Matilda.<br/><br/><a href=\"https://www.welcometosheffield.co.uk/content/events/warrington-runcorn-new-town-development-programme/\">https://www.welcometosheffield.co.uk/content/events/warrington-runcorn-new-town-development-programme/</a><br/> <a href='https://events.sheffield.alifeee.co.uk/tag/Sheffield'>#Sheffield</a> <br/></p>",
+  "contentMap": {
+    "en": "<p>event in Sheffield in 6 days (167 h) !<br/><br/>Warrington Runcorn New Town Development Programme<br/><br/>Warrington Runcorn New Town Development Programme play live at Sidney & Matilda.<br/><br/><a href=\"https://www.welcometosheffield.co.uk/content/events/warrington-runcorn-new-town-development-programme/\">https://www.welcometosheffield.co.uk/content/events/warrington-runcorn-new-town-development-programme/</a><br/> <a href='https://events.sheffield.alifeee.co.uk/tag/Sheffield'>#Sheffield</a> <br/></p>"
+  },
+  "to": [
+    "https://www.w3.org/ns/activitystreams#Public"
+  ],
+  "cc": [
+    "https://events.sheffield.alifeee.co.uk/followers"
+  ],
+  "tag": [
+    {
+      "type": "Hashtag",
+      "name": "#Sheffield"
+    }
+  ],
+  "attachment": [],
+  "og-data": {
+    "og:image": "https://www.welcometosheffield.co.uk/media/jpkhx2ae/warrington-runcorn-new-town-development-programme.png?width=600&height=600&mode=max"
+  }
+}

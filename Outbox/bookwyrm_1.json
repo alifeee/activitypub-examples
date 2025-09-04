@@ -1,0 +1,753 @@
+{
+    "id": "https://ramblingreaders.org/user/alifeee/outbox?page=1",
+    "type": "OrderedCollectionPage",
+    "partOf": "https://ramblingreaders.org/user/alifeee/outbox",
+    "orderedItems": [
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/899660",
+            "type": "Note",
+            "published": "2025-08-24T15:56:35.220883+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>we continue</p><p>(comment on <a href=\"https://ramblingreaders.org/book/112977\"><i>Sourcery</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/899660/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/899660/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/899660/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/112977-9785deec-e04e-4fe2-893f-c01c7ff45695.jpg",
+                    "name": "Terry Pratchett: Sourcery (Paperback, 1989, Corgi Books)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/112977",
+            "readingStatus": "reading",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/898850",
+            "type": "Note",
+            "published": "2025-08-23T13:38:57.427000+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>finally I have met Granny Weatherwax</p><p>(comment on <a href=\"https://ramblingreaders.org/book/83297\"><i>Equal rites</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/898850/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/898850/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/898850/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/83297-3932af37-c6d6-4322-ace7-74f59037b274.jpg",
+                    "name": "Terry Pratchett: Equal rites (Paperback, 1987, V. Gollancz in association with Colin Smythe)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/83297",
+            "readingStatus": "read",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/quotation/890729",
+            "type": "Note",
+            "published": "2025-08-12T13:09:13.869768+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>\"We're not working harder because we're spending all our time manufacturing PlayStations and serving one another sushi. Industry is being increasingly robotized, and the real service sector remains flat at roughly 20% of overall employment. Instead, it is because we have invented a bizarre sadomasochistic dialectic whereby we feel that pain in the workplace is the only possible justification for our furtive consumer pleasures, and, at the same time, the fact that our jobs thus come to eat up more and more of our waking existence means that we do not have the luxury of \u2014 as Kathi Weeks has to concisely put it \u2014 \u201ca life,\u201d and that, in turn, means that furtive consumer pleasures are the only ones we have time to afford. Sitting around in caf\u00e9s all day arguing about politics or gossiping about our friends\u2019 complex polyamourous love affairs takes time (all day, in fact); in contrast pumping iron or attending a yoga class at the local gym, ordering out for Deliveroo, watching an episode of Game of Thrones, or shopping for hand creams or consumer electronics can all be placed in the kind of self-contained predictable time-slots one is likely to have left over between spates of work, or else while recovering from it. All these are examples of what I like to call \u201ccompensatory consumerism.\u201d They are the sorts of things you can do to make up for the fact that you don't have a life, or not very much of one.\"</p> <p>\u2014 David Graeber: <a href=\"https://ramblingreaders.org/book/219\"><i>Bullshit Jobs</i></a></p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/quotation/890729/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/quotation/890729/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/quotation/890729/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/219-c074b27e-f26a-4249-9b30-42c06ffa71de.jpg",
+                    "name": "David Graeber: Bullshit Jobs (Hardcover, 2018, Simon Schuster)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/219",
+            "quote": "<p>We're not working harder because we're spending all our time manufacturing PlayStations and serving one another sushi. Industry is being increasingly robotized, and the real service sector remains flat at roughly 20% of overall employment. Instead, it is because we have invented a bizarre sadomasochistic dialectic whereby we feel that pain in the workplace is the only possible justification for our furtive consumer pleasures, and, at the same time, the fact that our jobs thus come to eat up more and more of our waking existence means that we do not have the luxury of \u2014 as Kathi Weeks has to concisely put it \u2014 \u201ca life,\u201d and that, in turn, means that furtive consumer pleasures are the only ones we have time to afford. Sitting around in caf\u00e9s all day arguing about politics or gossiping about our friends\u2019 complex polyamourous love affairs takes time (all day, in fact); in contrast pumping iron or attending a yoga class at the local gym, ordering out for Deliveroo, watching an episode of Game of Thrones, or shopping for hand creams or consumer electronics can all be placed in the kind of self-contained predictable time-slots one is likely to have left over between spates of work, or else while recovering from it. All these are examples of what I like to call \u201ccompensatory consumerism.\u201d They are the sorts of things you can do to make up for the fact that you don't have a life, or not very much of one.</p>",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/889707",
+            "type": "Note",
+            "published": "2025-08-10T16:27:37.118906+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>I enjoyed it a lot. I'm sure I'll be recommending it. There is some good commentary on the history of the worthwhileness of work;]</p><p>(comment on <a href=\"https://ramblingreaders.org/book/219\"><i>Bullshit Jobs</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/889707/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/889707/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/889707/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/219-c074b27e-f26a-4249-9b30-42c06ffa71de.jpg",
+                    "name": "David Graeber: Bullshit Jobs (Hardcover, 2018, Simon Schuster)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/219",
+            "readingStatus": "read",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/generatednote/874096",
+            "type": "Note",
+            "published": "2025-07-18T07:54:08.711136+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "alifeee started reading <a href=\"https://ramblingreaders.org/book/447058\"><i>Islander</i></a>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/generatednote/874096/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/generatednote/874096/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/generatednote/874096/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [
+                {
+                    "type": "Edition",
+                    "href": "https://ramblingreaders.org/book/447058",
+                    "name": "@Islander"
+                }
+            ],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/447058-c2f5c9df-53a9-4d70-8ac1-232cac85cebb.jpg",
+                    "name": "Patrick Barkham: Islander (2018, Granta Books)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/834587",
+            "type": "Note",
+            "published": "2025-05-27T20:39:31.542022+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>bull\nshit\njobs</p><p>(comment on <a href=\"https://ramblingreaders.org/book/219\"><i>Bullshit Jobs</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/834587/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/834587/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/834587/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/219-c074b27e-f26a-4249-9b30-42c06ffa71de.jpg",
+                    "name": "David Graeber: Bullshit Jobs (Hardcover, 2018, Simon Schuster)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/219",
+            "readingStatus": "reading",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/829012",
+            "type": "Note",
+            "published": "2025-05-21T11:06:19.120405+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>got pretty same-y in terms of format in the end, but the start was a nice reminder round the \"basic philosophical thought experiments\"</p><p>(comment on <a href=\"https://ramblingreaders.org/book/421495\"><i>What Would Nietzsche Do?</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/829012/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/829012/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/829012/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/421495-6848f862-f842-4533-9747-cf31f7281055.jpg",
+                    "name": "Marcus Weeks: What Would Nietzsche Do? (Paperback, 2018, Hachette Book Publishing India)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/421495",
+            "readingStatus": "read",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/819409",
+            "type": "Note",
+            "published": "2025-05-10T14:26:12.098706+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>time for more life lessons</p><p>(comment on <a href=\"https://ramblingreaders.org/book/441770\"><i>Deception</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/819409/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/819409/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/819409/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/441770-d4045cb8-ea6c-4f70-97c4-e43d2db02f9f.jpg",
+                    "name": "Roald Dahl: Deception (Paperback, 2016, Penguin Books)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/441770",
+            "readingStatus": "reading",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/817153",
+            "type": "Note",
+            "published": "2025-05-08T12:27:33.257050+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>moooomin !</p><p>(comment on <a href=\"https://ramblingreaders.org/book/270763\"><i>Finn Family Moomintroll</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/817153/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/817153/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/817153/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/270763-7c168fb8-cd46-4847-9bf7-860fa8488690.jpg",
+                    "name": "Tove Jansson: Finn Family Moomintroll (2010, Square Fish)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/270763",
+            "readingStatus": "read",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/817151",
+            "type": "Note",
+            "published": "2025-05-08T12:27:25.141674+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>it reads quite weird. like an AI wrote it.</p><p>(comment on <a href=\"https://ramblingreaders.org/book/436210\"><i>Cybersecurity</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/817151/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/817151/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/817151/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/436210-cf189c48-2c44-4ea1-aa1d-97183b2472ff.jpg",
+                    "name": "Duane C. Wilson: Cybersecurity (EBook, 2021, The MIT Press)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/436210",
+            "readingStatus": "read",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/794026",
+            "type": "Note",
+            "published": "2025-04-12T08:11:49.876878+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>cyber space</p><p>(comment on <a href=\"https://ramblingreaders.org/book/436210\"><i>Cybersecurity</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/794026/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/794026/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/794026/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/436210-cf189c48-2c44-4ea1-aa1d-97183b2472ff.jpg",
+                    "name": "Duane C. Wilson: Cybersecurity (EBook, 2021, The MIT Press)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/436210",
+            "readingStatus": "reading",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/782943",
+            "type": "Note",
+            "published": "2025-03-31T13:50:21.103230+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>moooooomin</p><p>(comment on <a href=\"https://ramblingreaders.org/book/270763\"><i>Finn Family Moomintroll</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/782943/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/782943/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/782943/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/270763-7c168fb8-cd46-4847-9bf7-860fa8488690.jpg",
+                    "name": "Tove Jansson: Finn Family Moomintroll (2010, Square Fish)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/270763",
+            "readingStatus": "reading",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/767874",
+            "type": "Note",
+            "published": "2025-03-17T11:02:18.771617+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>enjoyable short stories</p><p>(comment on <a href=\"https://ramblingreaders.org/book/209034\"><i>Trickery</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/767874/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/767874/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/767874/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/209034-e521acff-7310-42f5-b383-f426b2d0f59b.jpg",
+                    "name": "Roald Dahl: Trickery (Paperback, 2017, Penguin Books, Limited)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/209034",
+            "readingStatus": "read",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/755942",
+            "type": "Note",
+            "published": "2025-03-05T17:00:08.538818+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>this was very good and you should read it, especially if you want some scathing throwaway phrases about the San Francisco tech- and geek-bubble</p><p>(comment on <a href=\"https://ramblingreaders.org/book/425226\"><i>I Hate the Internet</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/755942/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/755942/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/755942/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/425226-ecf36d30-aaf8-44f2-b78d-9fd326b90f96.jpg",
+                    "name": "Jarett Kobek: I Hate the Internet (Paperback, 2016, We Heard You Like Books)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/425226",
+            "readingStatus": "read",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        },
+        {
+            "id": "https://ramblingreaders.org/user/alifeee/comment/744072",
+            "type": "Note",
+            "published": "2025-02-20T22:45:58.044911+00:00",
+            "attributedTo": "https://ramblingreaders.org/user/alifeee",
+            "content": "<p>I expected a millennial complaining about the internet</p>\n<p>this is, so far, not what I expected. in a good way.</p><p>(comment on <a href=\"https://ramblingreaders.org/book/425226\"><i>I Hate the Internet</i></a>)</p>",
+            "to": [
+                "https://www.w3.org/ns/activitystreams#Public"
+            ],
+            "cc": [
+                "https://ramblingreaders.org/user/alifeee/followers"
+            ],
+            "replies": {
+                "id": "https://ramblingreaders.org/user/alifeee/comment/744072/replies",
+                "type": "OrderedCollection",
+                "totalItems": 0,
+                "first": "https://ramblingreaders.org/user/alifeee/comment/744072/replies?page=1",
+                "last": "https://ramblingreaders.org/user/alifeee/comment/744072/replies?page=1",
+                "@context": [
+                    "https://www.w3.org/ns/activitystreams",
+                    {
+                        "Hashtag": "as:Hashtag"
+                    }
+                ]
+            },
+            "tag": [],
+            "attachment": [
+                {
+                    "type": "Document",
+                    "url": "https://assets.ramblingreaders.org/images/previews/covers/425226-ecf36d30-aaf8-44f2-b78d-9fd326b90f96.jpg",
+                    "name": "Jarett Kobek: I Hate the Internet (Paperback, 2016, We Heard You Like Books)",
+                    "@context": [
+                        "https://www.w3.org/ns/activitystreams",
+                        {
+                            "Hashtag": "as:Hashtag"
+                        }
+                    ]
+                }
+            ],
+            "sensitive": false,
+            "inReplyToBook": "https://ramblingreaders.org/book/425226",
+            "readingStatus": "reading",
+            "@context": [
+                "https://www.w3.org/ns/activitystreams",
+                {
+                    "Hashtag": "as:Hashtag"
+                }
+            ]
+        }
+    ],
+    "next": "https://ramblingreaders.org/user/alifeee/outbox?page=2",
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        {
+            "Hashtag": "as:Hashtag"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": "2.1",
+    "software": {
+        "name": "Movary movie tracker",
+        "version": "0.1.0",
+        "repository": "https://github.com/leepeuker/movary/"
+    },
+    "protocols": [
+        "activitypub"
+    ],
+    "openRegistrations": false,
+    "usage": {
+        "users": {
+            "total": 1
+        },
+        "localPosts": 15
+    },
+    "metadata": {
+        "nodeName": "<instance name>",
+        "nodeDescription": "Self hosted web app to track and rate your watched movies"
+    }
+}

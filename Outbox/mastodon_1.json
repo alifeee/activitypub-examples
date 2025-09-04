@@ -1,0 +1,1307 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    {
+      "ostatus": "http://ostatus.org#",
+      "atomUri": "ostatus:atomUri",
+      "inReplyToAtomUri": "ostatus:inReplyToAtomUri",
+      "conversation": "ostatus:conversation",
+      "sensitive": "as:sensitive",
+      "toot": "http://joinmastodon.org/ns#",
+      "votersCount": "toot:votersCount",
+      "quote": "https://w3id.org/fep/044f#quote",
+      "quoteUri": "http://fedibird.com/ns#quoteUri",
+      "_misskey_quote": "https://misskey-hub.net/ns#_misskey_quote",
+      "quoteAuthorization": {
+        "@id": "https://w3id.org/fep/044f#quoteAuthorization",
+        "@type": "@id"
+      },
+      "gts": "https://gotosocial.org/ns#",
+      "interactionPolicy": {
+        "@id": "gts:interactionPolicy",
+        "@type": "@id"
+      },
+      "canQuote": {
+        "@id": "gts:canQuote",
+        "@type": "@id"
+      },
+      "automaticApproval": {
+        "@id": "gts:automaticApproval",
+        "@type": "@id"
+      },
+      "manualApproval": {
+        "@id": "gts:manualApproval",
+        "@type": "@id"
+      },
+      "blurhash": "toot:blurhash",
+      "focalPoint": {
+        "@container": "@list",
+        "@id": "toot:focalPoint"
+      }
+    }
+  ],
+  "id": "https://mastodon.social/users/alifeee/outbox?page=true",
+  "type": "OrderedCollectionPage",
+  "next": "https://mastodon.social/users/alifeee/outbox?max_id=115100057307584566&page=true",
+  "prev": "https://mastodon.social/users/alifeee/outbox?min_id=115139522400839954&page=true",
+  "partOf": "https://mastodon.social/users/alifeee/outbox",
+  "orderedItems": [
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115139522400839954/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-09-03T08:54:45Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers",
+        "https://mastodon.social/users/neilzilla"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115139522400839954",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": "https://mastodon.social/users/neilzilla/statuses/115137296160350525",
+        "published": "2025-09-03T08:54:45Z",
+        "url": "https://mastodon.social/@alifeee/115139522400839954",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers",
+          "https://mastodon.social/users/neilzilla"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115139522400839954",
+        "inReplyToAtomUri": "https://mastodon.social/users/neilzilla/statuses/115137296160350525",
+        "conversation": "tag:mastodon.social,2025-09-02:objectId=1088037220:objectType=Conversation",
+        "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@neilzilla\" class=\"u-url mention\">@<span>neilzilla</span></a></span> lmao</p>",
+        "contentMap": {
+          "en": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@neilzilla\" class=\"u-url mention\">@<span>neilzilla</span></a></span> lmao</p>"
+        },
+        "attachment": [],
+        "tag": [
+          {
+            "type": "Mention",
+            "href": "https://mastodon.social/users/neilzilla",
+            "name": "@neilzilla"
+          }
+        ],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115139522400839954/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115139522400839954/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115139522400839954/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115139522400839954/likes",
+          "type": "Collection",
+          "totalItems": 0
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115139522400839954/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115136907246668600/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-09-02T21:49:40Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115136907246668600",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-09-02T21:49:40Z",
+        "url": "https://mastodon.social/@alifeee/115136907246668600",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115136907246668600",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-09-02:objectId=1088037220:objectType=Conversation",
+        "content": "<p>the respect I have for the Factorio development team to say &quot;the price is £35. there will never be a sale&quot; is high</p><p>...and... I hate all these sales and looking out for them... I like living in a Factorio world where A Thing costs A Price</p>",
+        "contentMap": {
+          "en": "<p>the respect I have for the Factorio development team to say &quot;the price is £35. there will never be a sale&quot; is high</p><p>...and... I hate all these sales and looking out for them... I like living in a Factorio world where A Thing costs A Price</p>"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115136907246668600/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115136907246668600/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115136907246668600/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115136907246668600/likes",
+          "type": "Collection",
+          "totalItems": 3
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115136907246668600/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115131212326626824/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-09-01T21:41:23Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115131212326626824",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-09-01T21:41:23Z",
+        "url": "https://mastodon.social/@alifeee/115131212326626824",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115131212326626824",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-09-01:objectId=1087203288:objectType=Conversation",
+        "content": "<p>it&#39;s time for your favourite activity of the week;</p><p>do you think this image is AI generated?</p><p><a href=\"https://www.instagram.com/p/DNxcXStUKi7/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/p/DNxcXStUKi7/</span><span class=\"invisible\"></span></a></p>",
+        "contentMap": {
+          "en": "<p>it&#39;s time for your favourite activity of the week;</p><p>do you think this image is AI generated?</p><p><a href=\"https://www.instagram.com/p/DNxcXStUKi7/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/p/DNxcXStUKi7/</span><span class=\"invisible\"></span></a></p>"
+        },
+        "attachment": [
+          {
+            "type": "Document",
+            "mediaType": "image/png",
+            "url": "https://files.mastodon.social/media_attachments/files/115/131/211/243/774/452/original/512cc04ede1588aa.png",
+            "name": "screenshot of Instagram post showing \"cartoon\" image of Sheffield",
+            "blurhash": "UMFY+4-:%LRk~W%2j[R*4Tt7NGaz9ZR*oft7",
+            "width": 1152,
+            "height": 1029
+          }
+        ],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131212326626824/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115131212326626824/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115131212326626824/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131212326626824/likes",
+          "type": "Collection",
+          "totalItems": 0
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131212326626824/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115131167589232425/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-09-01T21:30:00Z",
+      "to": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "cc": [
+        "https://www.w3.org/ns/activitystreams#Public",
+        "https://social.mags.omg.lol/users/mags"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115131167589232425",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": "https://social.mags.omg.lol/users/mags/statuses/01K43NX07V1PZB4X26ZDK943JY",
+        "published": "2025-09-01T21:30:00Z",
+        "url": "https://mastodon.social/@alifeee/115131167589232425",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "cc": [
+          "https://www.w3.org/ns/activitystreams#Public",
+          "https://social.mags.omg.lol/users/mags"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115131167589232425",
+        "inReplyToAtomUri": "https://social.mags.omg.lol/users/mags/statuses/01K43NX07V1PZB4X26ZDK943JY",
+        "conversation": "tag:mastodon.social,2025-09-01:objectId=1087014623:objectType=Conversation",
+        "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> I&#39;ve been meaning to write about it... been doing it for years now... it&#39;s just where I turn my phone off on Tuesday eve and on on Thursday morning</p><p>...I have a PC though so I can be on Masto/etc on the day... I just forget to check them unless I have reason to</p>",
+        "contentMap": {
+          "en": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> I&#39;ve been meaning to write about it... been doing it for years now... it&#39;s just where I turn my phone off on Tuesday eve and on on Thursday morning</p><p>...I have a PC though so I can be on Masto/etc on the day... I just forget to check them unless I have reason to</p>"
+        },
+        "attachment": [],
+        "tag": [
+          {
+            "type": "Mention",
+            "href": "https://social.mags.omg.lol/users/mags",
+            "name": "@mags@mags.omg.lol"
+          }
+        ],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131167589232425/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115131167589232425/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115131167589232425/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131167589232425/likes",
+          "type": "Collection",
+          "totalItems": 1
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131167589232425/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115131106309156575/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-09-01T21:14:25Z",
+      "to": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "cc": [
+        "https://www.w3.org/ns/activitystreams#Public",
+        "https://social.mags.omg.lol/users/mags"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115131106309156575",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": "https://social.mags.omg.lol/users/mags/statuses/01K43MJ6C4V1BPXXKSTQB4GQCA",
+        "published": "2025-09-01T21:14:25Z",
+        "url": "https://mastodon.social/@alifeee/115131106309156575",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "cc": [
+          "https://www.w3.org/ns/activitystreams#Public",
+          "https://social.mags.omg.lol/users/mags"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115131106309156575",
+        "inReplyToAtomUri": "https://social.mags.omg.lol/users/mags/statuses/01K43MJ6C4V1BPXXKSTQB4GQCA",
+        "conversation": "tag:mastodon.social,2025-09-01:objectId=1087014623:objectType=Conversation",
+        "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> I&#39;m always in Sheffield B)</p><p>I should be around about then. you are hitting me on Boneless Wednesday though so I&#39;ll have no phone. still able to coordinate if I have enough info in advance ...</p>",
+        "contentMap": {
+          "en": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> I&#39;m always in Sheffield B)</p><p>I should be around about then. you are hitting me on Boneless Wednesday though so I&#39;ll have no phone. still able to coordinate if I have enough info in advance ...</p>"
+        },
+        "attachment": [],
+        "tag": [
+          {
+            "type": "Mention",
+            "href": "https://social.mags.omg.lol/users/mags",
+            "name": "@mags@mags.omg.lol"
+          }
+        ],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131106309156575/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115131106309156575/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115131106309156575/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131106309156575/likes",
+          "type": "Collection",
+          "totalItems": 1
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131106309156575/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115131102827687606/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-09-01T21:13:32Z",
+      "to": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "cc": [
+        "https://www.w3.org/ns/activitystreams#Public",
+        "https://social.mags.omg.lol/users/mags"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115131102827687606",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": "https://social.mags.omg.lol/users/mags/statuses/01K43N0YC63X3553J487Q3DBY3",
+        "published": "2025-09-01T21:13:32Z",
+        "url": "https://mastodon.social/@alifeee/115131102827687606",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "cc": [
+          "https://www.w3.org/ns/activitystreams#Public",
+          "https://social.mags.omg.lol/users/mags"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115131102827687606",
+        "inReplyToAtomUri": "https://social.mags.omg.lol/users/mags/statuses/01K43N0YC63X3553J487Q3DBY3",
+        "conversation": "tag:mastodon.social,2025-09-01:objectId=1087014623:objectType=Conversation",
+        "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> to be fair a lot of the shortcuts were because I wasn&#39;t wild camping — was staying at friends or family so had to get to a location every night ^.^ — wild camping sounds super fun! I&#39;ve always wanted to get a hammock</p>",
+        "contentMap": {
+          "en": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> to be fair a lot of the shortcuts were because I wasn&#39;t wild camping — was staying at friends or family so had to get to a location every night ^.^ — wild camping sounds super fun! I&#39;ve always wanted to get a hammock</p>"
+        },
+        "attachment": [],
+        "tag": [
+          {
+            "type": "Mention",
+            "href": "https://social.mags.omg.lol/users/mags",
+            "name": "@mags@mags.omg.lol"
+          }
+        ],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131102827687606/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115131102827687606/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115131102827687606/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131102827687606/likes",
+          "type": "Collection",
+          "totalItems": 1
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115131102827687606/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115130987806984014/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-09-01T20:44:17Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers",
+        "https://social.mags.omg.lol/users/mags"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115130987806984014",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": "https://social.mags.omg.lol/users/mags/statuses/01K4348WKN7QBSQK9YQ6R46E8C",
+        "published": "2025-09-01T20:44:17Z",
+        "url": "https://mastodon.social/@alifeee/115130987806984014",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers",
+          "https://social.mags.omg.lol/users/mags"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115130987806984014",
+        "inReplyToAtomUri": "https://social.mags.omg.lol/users/mags/statuses/01K4348WKN7QBSQK9YQ6R46E8C",
+        "conversation": "tag:mastodon.social,2025-09-01:objectId=1087014623:objectType=Conversation",
+        "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> don&#39;t follow any rules ;] it&#39;s your adventure you can do what you want </p><p><a href=\"https://blog.alifeee.co.uk/bike-to-cambridge/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.alifeee.co.uk/bike-to-cam</span><span class=\"invisible\">bridge/</span></a></p>",
+        "contentMap": {
+          "en": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> don&#39;t follow any rules ;] it&#39;s your adventure you can do what you want </p><p><a href=\"https://blog.alifeee.co.uk/bike-to-cambridge/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.alifeee.co.uk/bike-to-cam</span><span class=\"invisible\">bridge/</span></a></p>"
+        },
+        "attachment": [],
+        "tag": [
+          {
+            "type": "Mention",
+            "href": "https://social.mags.omg.lol/users/mags",
+            "name": "@mags@mags.omg.lol"
+          }
+        ],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115130987806984014/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115130987806984014/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115130987806984014/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115130987806984014/likes",
+          "type": "Collection",
+          "totalItems": 3
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115130987806984014/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115128626031159653/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-09-01T10:43:39Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115128626031159653",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-09-01T10:43:39Z",
+        "url": "https://mastodon.social/@alifeee/115128626031159653",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115128626031159653",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-09-01:objectId=1086781979:objectType=Conversation",
+        "content": "<p>new note !</p><p># how to convince someone to not use AI art for event promotion</p><p>----------</p><p>I was asked the question:</p><p>    &quot;how do I convince someone that we shouldn&#39;t use AI art to create promotion posters for our local event?&quot;</p><p>I wanted something a bit more &quot;evidenced&quot; than &quot;AI is for losers&quot; (my usual response), so the below is compiled from that search.</p><p>…</p><p><a href=\"https://blog.alifeee.co.uk/notes/how-to-convince-someone-to-not-use-ai-art-for-event-promotion/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.alifeee.co.uk/notes/how-t</span><span class=\"invisible\">o-convince-someone-to-not-use-ai-art-for-event-promotion/</span></a></p>",
+        "contentMap": {
+          "en": "<p>new note !</p><p># how to convince someone to not use AI art for event promotion</p><p>----------</p><p>I was asked the question:</p><p>    &quot;how do I convince someone that we shouldn&#39;t use AI art to create promotion posters for our local event?&quot;</p><p>I wanted something a bit more &quot;evidenced&quot; than &quot;AI is for losers&quot; (my usual response), so the below is compiled from that search.</p><p>…</p><p><a href=\"https://blog.alifeee.co.uk/notes/how-to-convince-someone-to-not-use-ai-art-for-event-promotion/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.alifeee.co.uk/notes/how-t</span><span class=\"invisible\">o-convince-someone-to-not-use-ai-art-for-event-promotion/</span></a></p>"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115128626031159653/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115128626031159653/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115128626031159653/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115128626031159653/likes",
+          "type": "Collection",
+          "totalItems": 1
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115128626031159653/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115124920392247308/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-31T19:01:16Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115124920392247308",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-08-31T19:01:16Z",
+        "url": "https://mastodon.social/@alifeee/115124920392247308",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115124920392247308",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-08-31:objectId=1086327128:objectType=Conversation",
+        "content": "<p>so does anyone have any good ideas what to do for the emergency alert?</p><p><a href=\"https://www.gov.uk/government/news/national-emergency-alert-test-to-be-held-on-7th-september\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">gov.uk/government/news/nationa</span><span class=\"invisible\">l-emergency-alert-test-to-be-held-on-7th-september</span></a></p>",
+        "contentMap": {
+          "en": "<p>so does anyone have any good ideas what to do for the emergency alert?</p><p><a href=\"https://www.gov.uk/government/news/national-emergency-alert-test-to-be-held-on-7th-september\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">gov.uk/government/news/nationa</span><span class=\"invisible\">l-emergency-alert-test-to-be-held-on-7th-september</span></a></p>"
+        },
+        "attachment": [
+          {
+            "type": "Document",
+            "mediaType": "image/png",
+            "url": "https://files.mastodon.social/media_attachments/files/115/124/918/904/484/671/original/1d44b5202a4b43f0.png",
+            "name": "screenshot of emergency alert website showing it will be on the 7th September",
+            "blurhash": "UfN^h{ofxuof-;WBRjj[RPaxazay00oft7ay",
+            "width": 1152,
+            "height": 2496
+          }
+        ],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115124920392247308/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115124920392247308/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115124920392247308/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115124920392247308/likes",
+          "type": "Collection",
+          "totalItems": 1
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115124920392247308/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115123351803571776/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-31T12:22:21Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115123351803571776",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-08-31T12:22:21Z",
+        "url": "https://mastodon.social/@alifeee/115123351803571776",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115123351803571776",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-08-31:objectId=1086086395:objectType=Conversation",
+        "content": "<p>&quot;Figures for lost sales usually assume that consumers who use pirated content would always choose to purchase the product at the market rate, if the illegal sources were not available.&quot;</p><p><a href=\"https://en.wikipedia.org/wiki/Lost_sales\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Lost_sal</span><span class=\"invisible\">es</span></a></p><p>classic</p>",
+        "contentMap": {
+          "en": "<p>&quot;Figures for lost sales usually assume that consumers who use pirated content would always choose to purchase the product at the market rate, if the illegal sources were not available.&quot;</p><p><a href=\"https://en.wikipedia.org/wiki/Lost_sales\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Lost_sal</span><span class=\"invisible\">es</span></a></p><p>classic</p>"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115123351803571776/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115123351803571776/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115123351803571776/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115123351803571776/likes",
+          "type": "Collection",
+          "totalItems": 2
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115123351803571776/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115117230986813081/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-30T10:25:45Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115117230986813081",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-08-30T10:25:45Z",
+        "url": "https://mastodon.social/@alifeee/115117230986813081",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115117230986813081",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-08-30:objectId=1085302938:objectType=Conversation",
+        "content": "<p>what do you do to listen to music?</p><p>mainly at the moment I listen to BBC Radio 6 Music. I cancelled my Spotify a year or so ago.</p><p>other options I can see include</p><p>stream<br />- Spotify<br />- YouTube Music<br />- soundcloud<br />- <a href=\"https://www.deezer.com/en/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">deezer.com/en/</span><span class=\"invisible\"></span></a><br />- <a href=\"https://tidal.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tidal.com/</span><span class=\"invisible\"></span></a><br />- <a href=\"https://stream.resonate.coop/search?q=girli\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">stream.resonate.coop/search?q=</span><span class=\"invisible\">girli</span></a><br />- <a href=\"https://www.qobuz.com/gb-en/discover\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">qobuz.com/gb-en/discover</span><span class=\"invisible\"></span></a></p><p>purchase<br />- <a href=\"https://bandcamp.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bandcamp.com/</span><span class=\"invisible\"></span></a><br />- buy CDs and rip to audio file?</p><p>self-host<br />- <a href=\"https://www.navidrome.org/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">navidrome.org/</span><span class=\"invisible\"></span></a><br />- <a href=\"https://www.funkwhale.audio/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">funkwhale.audio/</span><span class=\"invisible\"></span></a></p><p>playlist transfer tools<br />- <a href=\"https://soundiiz.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">soundiiz.com/</span><span class=\"invisible\"></span></a></p>",
+        "contentMap": {
+          "en": "<p>what do you do to listen to music?</p><p>mainly at the moment I listen to BBC Radio 6 Music. I cancelled my Spotify a year or so ago.</p><p>other options I can see include</p><p>stream<br />- Spotify<br />- YouTube Music<br />- soundcloud<br />- <a href=\"https://www.deezer.com/en/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">deezer.com/en/</span><span class=\"invisible\"></span></a><br />- <a href=\"https://tidal.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tidal.com/</span><span class=\"invisible\"></span></a><br />- <a href=\"https://stream.resonate.coop/search?q=girli\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">stream.resonate.coop/search?q=</span><span class=\"invisible\">girli</span></a><br />- <a href=\"https://www.qobuz.com/gb-en/discover\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">qobuz.com/gb-en/discover</span><span class=\"invisible\"></span></a></p><p>purchase<br />- <a href=\"https://bandcamp.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bandcamp.com/</span><span class=\"invisible\"></span></a><br />- buy CDs and rip to audio file?</p><p>self-host<br />- <a href=\"https://www.navidrome.org/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">navidrome.org/</span><span class=\"invisible\"></span></a><br />- <a href=\"https://www.funkwhale.audio/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">funkwhale.audio/</span><span class=\"invisible\"></span></a></p><p>playlist transfer tools<br />- <a href=\"https://soundiiz.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">soundiiz.com/</span><span class=\"invisible\"></span></a></p>"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115117230986813081/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115117230986813081/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115117230986813081/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115117230986813081/likes",
+          "type": "Collection",
+          "totalItems": 0
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115117230986813081/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115114007955039398/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-29T20:46:05Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers",
+        "https://chaos.social/users/blinry"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115114007955039398",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": "https://chaos.social/users/blinry/statuses/115113804408141363",
+        "published": "2025-08-29T20:46:05Z",
+        "url": "https://mastodon.social/@alifeee/115114007955039398",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers",
+          "https://chaos.social/users/blinry"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115114007955039398",
+        "inReplyToAtomUri": "https://chaos.social/users/blinry/statuses/115113804408141363",
+        "conversation": "tag:mastodon.social,2025-08-29:objectId=1084859332:objectType=Conversation",
+        "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://chaos.social/@blinry\" class=\"u-url mention\">@<span>blinry</span></a></span> heheh!!! very nice ;] maybe I&#39;ll have to try ...</p><p>a favourite &quot;long distance&quot; game with another person of mine is to digitally colour in the same picture at the same time and compare results at the end</p>",
+        "contentMap": {
+          "en": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://chaos.social/@blinry\" class=\"u-url mention\">@<span>blinry</span></a></span> heheh!!! very nice ;] maybe I&#39;ll have to try ...</p><p>a favourite &quot;long distance&quot; game with another person of mine is to digitally colour in the same picture at the same time and compare results at the end</p>"
+        },
+        "attachment": [],
+        "tag": [
+          {
+            "type": "Mention",
+            "href": "https://chaos.social/users/blinry",
+            "name": "@blinry@chaos.social"
+          }
+        ],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115114007955039398/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115114007955039398/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115114007955039398/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115114007955039398/likes",
+          "type": "Collection",
+          "totalItems": 1
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115114007955039398/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115114000672469275/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-29T20:44:14Z",
+      "to": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "cc": [
+        "https://www.w3.org/ns/activitystreams#Public",
+        "https://social.mags.omg.lol/users/mags"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115114000672469275",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": "https://social.mags.omg.lol/users/mags/statuses/01K3VRYWCYP9QNK2BHP266XJQV",
+        "published": "2025-08-29T20:44:14Z",
+        "url": "https://mastodon.social/@alifeee/115114000672469275",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "cc": [
+          "https://www.w3.org/ns/activitystreams#Public",
+          "https://social.mags.omg.lol/users/mags"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115114000672469275",
+        "inReplyToAtomUri": "https://social.mags.omg.lol/users/mags/statuses/01K3VRYWCYP9QNK2BHP266XJQV",
+        "conversation": "tag:mastodon.social,2025-08-29:objectId=1084783497:objectType=Conversation",
+        "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> heheh no it&#39;s a &quot;futuristic&quot; orb shape that can project the time onto the ceiling (not any more), from the London Science Museum</p>",
+        "contentMap": {
+          "en": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> heheh no it&#39;s a &quot;futuristic&quot; orb shape that can project the time onto the ceiling (not any more), from the London Science Museum</p>"
+        },
+        "attachment": [],
+        "tag": [
+          {
+            "type": "Mention",
+            "href": "https://social.mags.omg.lol/users/mags",
+            "name": "@mags@mags.omg.lol"
+          }
+        ],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115114000672469275/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115114000672469275/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115114000672469275/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115114000672469275/likes",
+          "type": "Collection",
+          "totalItems": 0
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115114000672469275/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115113598376264142/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-29T19:01:55Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115113598376264142",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-08-29T19:01:55Z",
+        "url": "https://mastodon.social/@alifeee/115113598376264142",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115113598376264142",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-08-29:objectId=1084859332:objectType=Conversation",
+        "content": "<p>check out this sweet bench SVG</p><p>it&#39;s from my latest blog post</p><p>about stabilising a bench</p><p><a href=\"https://blog.alifeee.co.uk/2025/08/bench-stabilisation/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.alifeee.co.uk/2025/08/ben</span><span class=\"invisible\">ch-stabilisation/</span></a></p><p>wheeeeeeee</p>",
+        "contentMap": {
+          "en": "<p>check out this sweet bench SVG</p><p>it&#39;s from my latest blog post</p><p>about stabilising a bench</p><p><a href=\"https://blog.alifeee.co.uk/2025/08/bench-stabilisation/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.alifeee.co.uk/2025/08/ben</span><span class=\"invisible\">ch-stabilisation/</span></a></p><p>wheeeeeeee</p>"
+        },
+        "attachment": [
+          {
+            "type": "Document",
+            "mediaType": "image/png",
+            "url": "https://files.mastodon.social/media_attachments/files/115/113/597/737/139/397/original/58a9b9a54cf80b54.png",
+            "name": "svg of a bench with checkerboard background",
+            "blurhash": "U5K1m}Si5X?G-Ts:XTNG0#ogt7sl%gR+R+$%",
+            "focalPoint": [
+              -0.07,
+              0.13
+            ],
+            "width": 1038,
+            "height": 671
+          }
+        ],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115113598376264142/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115113598376264142/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115113598376264142/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115113598376264142/likes",
+          "type": "Collection",
+          "totalItems": 1
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115113598376264142/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115113521192720572/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-29T18:42:18Z",
+      "to": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "cc": [
+        "https://www.w3.org/ns/activitystreams#Public",
+        "https://social.mags.omg.lol/users/mags"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115113521192720572",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": "https://social.mags.omg.lol/users/mags/statuses/01K3VFZC07SY6M453VD32VV4GK",
+        "published": "2025-08-29T18:42:18Z",
+        "url": "https://mastodon.social/@alifeee/115113521192720572",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "cc": [
+          "https://www.w3.org/ns/activitystreams#Public",
+          "https://social.mags.omg.lol/users/mags"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115113521192720572",
+        "inReplyToAtomUri": "https://social.mags.omg.lol/users/mags/statuses/01K3VFZC07SY6M453VD32VV4GK",
+        "conversation": "tag:mastodon.social,2025-08-29:objectId=1084783497:objectType=Conversation",
+        "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> pretty sure my alarm clock radio is from like 2011 lol</p>",
+        "contentMap": {
+          "en": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.mags.omg.lol/@mags\" class=\"u-url mention\">@<span>mags</span></a></span> pretty sure my alarm clock radio is from like 2011 lol</p>"
+        },
+        "attachment": [],
+        "tag": [
+          {
+            "type": "Mention",
+            "href": "https://social.mags.omg.lol/users/mags",
+            "name": "@mags@mags.omg.lol"
+          }
+        ],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115113521192720572/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115113521192720572/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115113521192720572/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115113521192720572/likes",
+          "type": "Collection",
+          "totalItems": 1
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115113521192720572/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115112893454210034/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-29T16:02:39Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115112893454210034",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-08-29T16:02:39Z",
+        "url": "https://mastodon.social/@alifeee/115112893454210034",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115112893454210034",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-08-29:objectId=1084737941:objectType=Conversation",
+        "content": "<p>change is incremental</p>",
+        "contentMap": {
+          "en": "<p>change is incremental</p>"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115112893454210034/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115112893454210034/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115112893454210034/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115112893454210034/likes",
+          "type": "Collection",
+          "totalItems": 0
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115112893454210034/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115112626671306481/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-29T14:54:48Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115112626671306481",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-08-29T14:54:48Z",
+        "url": "https://mastodon.social/@alifeee/115112626671306481",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115112626671306481",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-08-29:objectId=1084687269:objectType=Conversation",
+        "content": "<p>r u guys all ready for the emergency alert next Sunday</p>",
+        "contentMap": {
+          "en": "<p>r u guys all ready for the emergency alert next Sunday</p>"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115112626671306481/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115112626671306481/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115112626671306481/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115112626671306481/likes",
+          "type": "Collection",
+          "totalItems": 0
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115112626671306481/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115105996496848714/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-28T10:48:40Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115105996496848714",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-08-28T10:48:40Z",
+        "url": "https://mastodon.social/@alifeee/115105996496848714",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115105996496848714",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-08-28:objectId=1083662560:objectType=Conversation",
+        "content": "<p>fuck their borders</p><p>from <a href=\"https://wiki.xxiivv.com/media/refs/borders.png\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">wiki.xxiivv.com/media/refs/bor</span><span class=\"invisible\">ders.png</span></a></p>",
+        "contentMap": {
+          "en": "<p>fuck their borders</p><p>from <a href=\"https://wiki.xxiivv.com/media/refs/borders.png\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">wiki.xxiivv.com/media/refs/bor</span><span class=\"invisible\">ders.png</span></a></p>"
+        },
+        "attachment": [
+          {
+            "type": "Document",
+            "mediaType": "image/jpeg",
+            "url": "https://files.mastodon.social/media_attachments/files/115/105/991/719/667/593/original/2e0c098d1cba2d8a.jpg",
+            "name": "picture of projector showing ASCII art of image",
+            "blurhash": "UCAn1C~AQnyD.8f+IUM}mjpJOXIB$zxtoznN",
+            "width": 3319,
+            "height": 2499
+          },
+          {
+            "type": "Document",
+            "mediaType": "image/png",
+            "url": "https://files.mastodon.social/media_attachments/files/115/105/994/350/961/612/original/d202968cf95ec97d.png",
+            "name": "picture of birds (swallows?) and a ribbon saying \"fuck their borders\"",
+            "blurhash": "UUN^e:j[~qt7-;t7Rjay~qt7RjWBWBRjj[Rj",
+            "width": 500,
+            "height": 264
+          }
+        ],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115105996496848714/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115105996496848714/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115105996496848714/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115105996496848714/likes",
+          "type": "Collection",
+          "totalItems": 1
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115105996496848714/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115105879347039957/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-28T10:18:52Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115105879347039957",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-08-28T10:18:52Z",
+        "url": "https://mastodon.social/@alifeee/115105879347039957",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115105879347039957",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-08-28:objectId=1083642657:objectType=Conversation",
+        "content": "<p>the versatility of a nested list truly is endless</p>",
+        "contentMap": {
+          "en": "<p>the versatility of a nested list truly is endless</p>"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115105879347039957/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115105879347039957/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115105879347039957/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115105879347039957/likes",
+          "type": "Collection",
+          "totalItems": 0
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115105879347039957/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    },
+    {
+      "id": "https://mastodon.social/users/alifeee/statuses/115100057307584566/activity",
+      "type": "Create",
+      "actor": "https://mastodon.social/users/alifeee",
+      "published": "2025-08-27T09:38:15Z",
+      "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+      ],
+      "cc": [
+        "https://mastodon.social/users/alifeee/followers"
+      ],
+      "object": {
+        "id": "https://mastodon.social/users/alifeee/statuses/115100057307584566",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2025-08-27T09:38:15Z",
+        "url": "https://mastodon.social/@alifeee/115100057307584566",
+        "attributedTo": "https://mastodon.social/users/alifeee",
+        "to": [
+          "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "cc": [
+          "https://mastodon.social/users/alifeee/followers"
+        ],
+        "sensitive": false,
+        "atomUri": "https://mastodon.social/users/alifeee/statuses/115100057307584566",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mastodon.social,2025-08-27:objectId=1082755035:objectType=Conversation",
+        "content": "<p>how would you convince Sheffield council to do something</p><p>a petition?</p><p>an official route?</p>",
+        "contentMap": {
+          "en": "<p>how would you convince Sheffield council to do something</p><p>a petition?</p><p>an official route?</p>"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115100057307584566/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mastodon.social/users/alifeee/statuses/115100057307584566/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mastodon.social/users/alifeee/statuses/115100057307584566/replies",
+            "items": []
+          }
+        },
+        "likes": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115100057307584566/likes",
+          "type": "Collection",
+          "totalItems": 0
+        },
+        "shares": {
+          "id": "https://mastodon.social/users/alifeee/statuses/115100057307584566/shares",
+          "type": "Collection",
+          "totalItems": 0
+        }
+      }
+    }
+  ]
+}

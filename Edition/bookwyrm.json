@@ -1,0 +1,58 @@
+{
+    "id": "https://ramblingreaders.org/book/219",
+    "type": "Edition",
+    "openlibraryKey": "OL26487199M",
+    "inventaireId": "isbn:9781501143311",
+    "librarythingKey": "",
+    "goodreadsKey": "34466958",
+    "lastEditedBy": "https://bookwyrm.social/user/jzacsh",
+    "title": "Bullshit Jobs",
+    "sortTitle": "bullshit jobs",
+    "subtitle": "A Theory",
+    "description": "<p>Bullshit Jobs: A Theory is a 2018 book by anthropologist David Graeber that argues the existence and societal harm of meaningless jobs. He contends that over half of societal work is pointless, which becomes psychologically destructive when paired with a work ethic that associates work with self-worth. Graeber describes five types of bullshit jobs, in which workers pretend their role isn't as pointless or harmful as they know it to be: flunkies, goons, duct tapers, box tickers, and taskmasters. He argues that the association of labor with virtuous suffering is recent in human history, and proposes universal basic income as a potential solution.</p>",
+    "languages": [
+        "English"
+    ],
+    "series": "",
+    "seriesNumber": "",
+    "subjects": [
+        "Nonfiction",
+        "Economics",
+        "Sociology"
+    ],
+    "subjectPlaces": [],
+    "authors": [
+        "https://ramblingreaders.org/author/47"
+    ],
+    "firstPublishedDate": "",
+    "publishedDate": "2018-10-07",
+    "fileLinks": [],
+    "cover": {
+        "type": "Image",
+        "url": "https://assets.ramblingreaders.org/images/covers/9a57e148-31e9-4766-8b4c-a654612b8c85.jpeg",
+        "name": "David Graeber: Bullshit Jobs (Hardcover, 2018, Simon Schuster)",
+        "@context": [
+            "https://www.w3.org/ns/activitystreams",
+            {
+                "Hashtag": "as:Hashtag"
+            }
+        ]
+    },
+    "work": "https://ramblingreaders.org/book/218",
+    "isbn10": "150114331X",
+    "isbn13": "9781501143311",
+    "oclcNumber": "",
+    "pages": 335,
+    "physicalFormat": "Hardcover",
+    "physicalFormatDetail": "",
+    "publishers": [
+        "Simon Schuster"
+    ],
+    "editionRank": 10,
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        {
+            "Hashtag": "as:Hashtag"
+        }
+    ]
+}

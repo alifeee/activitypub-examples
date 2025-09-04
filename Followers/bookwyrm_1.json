@@ -1,0 +1,20 @@
+{
+    "id": "https://ramblingreaders.org/user/alifeee/followers?page=1",
+    "type": "OrderedCollectionPage",
+    "partOf": "https://ramblingreaders.org/user/alifeee/followers",
+    "orderedItems": [
+        "https://bookwyrm.social/user/ivory444",
+        "https://bookwyrm.social/user/n0madz",
+        "https://wzrds.fun/users/n0madz",
+        "https://mastodon.social/users/fiveofficially",
+        "https://transfem.social/users/a2nmh9p6wgu300l8",
+        "https://comelibros.club/user/PaolaP",
+        "https://bookwyrm.social/user/akkartik",
+        "https://mastodon.social/users/alifeee",
+        "https://outside.ofa.dog/user/raveller",
+        "https://hachyderm.io/users/byjp",
+        "https://typo.social/users/drj"
+    ],
+    "next": null,
+    "prev": null
+}

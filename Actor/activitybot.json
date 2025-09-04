@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        "https://w3id.org/security/v1"
+    ],
+    "id": "https://events.sheffield.alifeee.co.uk/events",
+    "type": "Application",
+    "following": "https://events.sheffield.alifeee.co.uk/following",
+    "followers": "https://events.sheffield.alifeee.co.uk/followers",
+    "inbox": "https://events.sheffield.alifeee.co.uk/inbox",
+    "outbox": "https://events.sheffield.alifeee.co.uk/outbox",
+    "preferredUsername": "events",
+    "name": "alifeee's Sheffield events bot",
+    "summary": "events in sheffield. <a href='https://server.alifeee.net/sheffield/events/'>context</a>. <a href='https://gitlab.com/alifeee/activity-bot/-/tree/sheffield_events_bot'>source</a>!",
+    "url": "https://events.sheffield.alifeee.co.uk/events",
+    "manuallyApprovesFollowers": false,
+    "discoverable": true,
+    "indexable": true,
+    "published": "2024-11-02T01:38:00Z",
+    "alsoKnownAs": [],
+    "icon": {
+        "type": "Image",
+        "mediaType": "image/png",
+        "url": "https://events.sheffield.alifeee.co.uk/icon.png"
+    },
+    "image": {
+        "type": "Image",
+        "mediaType": "image/png",
+        "url": "https://events.sheffield.alifeee.co.uk/banner.png"
+    },
+    "publicKey": {
+        "id": "https://events.sheffield.alifeee.co.uk/events#main-key",
+        "owner": "https://events.sheffield.alifeee.co.uk/events",
+        "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDSyFcpAUHgtaetY+66l7Pn/xV2\nlyYmlKrxHD4/B+FoqlYnS+Z84afRHaIzJ9S0kfO1BXIeY9Fey8rw0phuKTa1Pqfq\nMQ97S5v+IZhx9OwMdKQICDJ1kFQU6ZOjTXHSeDyviq04bNC9vemLDIevOfi2JRpD\nnE7Q2rwJAq5aq5qKqQIDAQAB\n-----END PUBLIC KEY-----"
+    }
+}
