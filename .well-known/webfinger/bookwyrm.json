@@ -1,0 +1,14 @@
+{
+    "subject": "acct:alifeee@ramblingreaders.org",
+    "links": [
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://ramblingreaders.org/user/alifeee"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://ramblingreaders.org/ostatus_subscribe?acct={uri}"
+        }
+    ]
+}

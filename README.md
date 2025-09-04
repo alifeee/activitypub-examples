@@ -24,7 +24,19 @@ alias apcurl='apcurl=curl -H "Accept: application/ld+json, application/activity+
 mkdir -p .well-known/host-meta
 curl https://events.sheffield.alifeee.co.uk/.well-known/host-meta > .well-known/host-meta/activitybot.xml
 curl https://mastodon.social/.well-known/host-meta > .well-known/host-meta/mastodon.xml
-curl https://ramblingreaders.org/.well-known/host-meta > .well-known/host-meta/mastodon.xml
+curl https://ramblingreaders.org/.well-known/host-meta > .well-known/host-meta/bookwyrm.xml
+```
+
+### webfinger
+
+```bash
+mkdir .well-known/webfinger
+apcurl "https://events.sheffield.alifeee.co.uk/.well-known/webfinger?resource=acct:events@events.sheffield.alifeee.co.uk" \
+  > .well-known/webfinger/activitybot.json
+apcurl "https://mastodon.social/.well-known/webfinger?resource=acct:alifeee@mastodon.social" \
+  > .well-known/webfinger/mastodon.json
+apcurl "https://ramblingreaders.org/.well-known/webfinger?resource=acct:alifeee@ramblingreaders.org" \
+  > .well-known/webfinger/bookwyrm.json
 ```
 
 ### nodeinfo

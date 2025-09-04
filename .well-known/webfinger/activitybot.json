@@ -1,0 +1,10 @@
+{
+    "subject": "acct:events@events.sheffield.alifeee.co.uk",
+    "links": [
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://events.sheffield.alifeee.co.uk/events"
+        }
+    ]
+}
