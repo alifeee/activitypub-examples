@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/activitypub-examples/about/>
 # ActivityPub JSON examples
 
 Examples of ActivityPub Objects from various sites implementing the protocol. The sites used are:
